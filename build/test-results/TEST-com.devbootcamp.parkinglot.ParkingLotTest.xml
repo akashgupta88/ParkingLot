@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.devbootcamp.parkinglot.ParkingLotTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-06-30T06:01:33" hostname="INgakash.local" time="0.078">
+  <properties/>
+  <testcase name="shouldNotifyOwnerWhenParkingIsFull" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.076"/>
+  <testcase name="shouldNotifyObserversWhenParkingLotIsFull" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldNotParkCarIfUnAvailable" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldShowParkingAvailableAfterCarUnPark" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldNotUnParkCarForTokenThatIsNotIssued" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldUnParkCar" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldParkCarIfAvailable" classname="com.devbootcamp.parkinglot.ParkingLotTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
